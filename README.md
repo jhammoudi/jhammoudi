@@ -1,4 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/jhammoudi" width="150px">
+  <br><br>
+  <samp>
+Hi. I'm Jihad Hammoudi. I'm a &lt;Software Developer/&gt; based in Sydney, Australia.
+I like coding and making cool stuff
+     <br><br>Visit my website at <a href="https://jhammoudi.com">jhammoudi.com</a> or Connect on Linkedin at <a href="https://www.linkedin.com/in/jhammoudi/">jhammoudi</a>
+  </samp>
+</p>
 
 <!--
 **jhammoudi/jhammoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
