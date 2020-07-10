@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/jhammoudi" width="150px">
-  <br><br>
   <samp>
 Hi. I'm Jihad Hammoudi. I'm a &lt;Software Developer/&gt; based in Sydney, Australia.
 I like coding and making cool stuff
