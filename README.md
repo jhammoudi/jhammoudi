@@ -1,7 +1,5 @@
 <p align="center">
-  <samp>
-Hi. I'm Jihad Hammoudi. I'm a &lt;Software Developer/&gt; based in Sydney, Australia.
-I like coding and making cool stuff
+  <samp>Software developer based in Sydney, Australia. Over 4 years of experience crafting solutions across horizons
      <br><br>Visit my website at <a href="https://jhammoudi.com">jhammoudi.com</a> or Connect on Linkedin at <a href="https://www.linkedin.com/in/jhammoudi/">jhammoudi</a>
   </samp>
 </p>
